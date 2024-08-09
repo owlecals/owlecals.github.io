@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owlecals.github.io/sitemap.html.gz
+Sitemap: https://owlecals.github.io/app/sitemap.html.gz
+Sitemap: https://owlecals.github.io/assets/sitemap.html.gz
+Sitemap: https://owlecals.github.io/css/sitemap.html.gz
+Sitemap: https://owlecals.github.io/includes/sitemap.html.gz
+Sitemap: https://owlecals.github.io/item/sitemap.html.gz
+Sitemap: https://owlecals.github.io/src/sitemap.html.gz
